@@ -78,6 +78,7 @@ The GA optimized the aerofoil after **4280 function evaluations**. The final set
 | 8         | -0.5000                      | 0.0000     | -0.5000                     | 0.0000     |
 
 ---
+![optmial_profile](https://github.com/user-attachments/assets/bdaa93d4-3528-4685-a71a-1cd1d595ae0b)
 
 ### **5.2 Achieved Minimum Drag-to-Lift Ratio**
 The optimized drag-to-lift ratio $\frac{C_d}{C_l}$ achieved was **0.54545**, demonstrating the GA's effectiveness in achieving a global minimum beyond the bounds of the training dataset.
