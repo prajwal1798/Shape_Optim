@@ -1,5 +1,3 @@
-# Shape_Optimization
-
 # **Shape Optimization Toolbox for NACA0012 Aerofoil**
 ![Neural_Net](https://github.com/user-attachments/assets/8818819f-f3ef-4b00-a503-3fb0f2b965da)
 
